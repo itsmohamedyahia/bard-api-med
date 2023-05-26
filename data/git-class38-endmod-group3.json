@@ -1,0 +1,368 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which of the following is low peri-anal fistula?",
+    "choices": {
+      "a": "Inter-sphincteric fistula",
+      "b": "Tran-sphincteric fistula",
+      "c": "Subcutaneous fistula",
+      "d": "Extra-sphincteric fistula"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following has higher incidence cancer colon?",
+    "choices": {
+      "a": "Juvenile polyp",
+      "b": "Bilharzial polyp",
+      "c": "Adenomatous polyp (tubule-villous type)",
+      "d": "Colonic diverticulum"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 3,
+    "question": "Which of the following carry good prognosis in pancreatic cancer?",
+    "choices": {
+      "a": "Cancer head",
+      "b": "Cancer body",
+      "c": "Pre-ampullary",
+      "d": "Cancer tail"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 4,
+    "question": "Which is the most accurate noninvasive imaging for obstructive jaundice?",
+    "choices": {
+      "a": "Abdominal ultrasound",
+      "b": "Computed tomography",
+      "c": "Endoscopic ultrasound",
+      "d": "Magnetic Resonance Cholangiopancreatography"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the commonest liver lesion on scanning?",
+    "choices": {
+      "a": "Haemangioma",
+      "b": "Hepatocellular carcinoma",
+      "c": "Focal nodular hyperplasia",
+      "d": "Hydatid cyst"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 6,
+    "question": "Which of the following is a contra-indication of on bariatric surge",
+    "choices": {
+      "a": "People with BMI ≥40",
+      "b": "People with a BMI ≥35 with type II diabetes",
+      "c": "People with a BMI of 30-34.9 with onset of type II diabetes within 10 years",
+      "d": "People with a BMI of 29 without co-morbidity"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 7,
+    "question": "Adult female patient presented with long standing dysphagia to liquids more than solids, she did esophageal endoscopic dilation twice but the symptoms recurs again, the best option for here now is:",
+    "choices": {
+      "a": "Injections of botulinum toxin",
+      "b": "Repeat the Dilation with a balloon",
+      "c": "Modified Heller cardio-myotomy",
+      "d": "Esophagectomy"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 8,
+    "question": "Old male patient, smoker, presented with tongue ulcer about 1X1 cm not responding to conservative treatment, the neck has hard submandibular lymph node, what is his stage if he was diagnosed to have tongue cancer?",
+    "choices": {
+      "a": "Stage I",
+      "b": "Stage II",
+      "c": "Stage III",
+      "d": "Stage IV"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 9,
+    "question": "All the following are causes of hepatomegaly except:",
+    "choices": {
+      "a": "Glycogen Storage Disease",
+      "b": "Thalassemia",
+      "c": "Congestive Heart Failure",
+      "d": "Tetany"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 10,
+    "question": "Which of the following trace elements is important to be given in cases of diarrhea?",
+    "choices": {
+      "a": "Iron",
+      "b": "Copper",
+      "c": "Manganese",
+      "d": "Zinc"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 11,
+    "question": "In a patient who has been infected with HAV, which of the following usually provides immunity against HAV for life?",
+    "choices": {
+      "a": "IgG antibody (IgG anti-HAV)",
+      "b": "IgM antibody to HAV (IgM anti-HAV)",
+      "c": "Normalization of AST and ALT levels",
+      "d": "Vaccination against HAV"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 12,
+    "question": "Patients with Hirschsprung disease most commonly present with a symptom early in life. Which of the following is the most prominent symptom or sign of the disease in neonates?",
+    "choices": {
+      "a": "Empty rectum on digital rectal examination",
+      "b": "Failure to pass meconium within 48 hours of life",
+      "c": "Lack of physiologic urge to defecate",
+      "d": "Mild constipation with intermittent bouts of mild diarrhea"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 13,
+    "question": "Ankylostoma anemia is due to:",
+    "choices": {
+      "a": "Iron deficiency.",
+      "b": "Red cell hypoplasia in the bone marrow.",
+      "c": "Shortening of the red cell lifespan.",
+      "d": "Associated infections."
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 14,
+    "question": "Which of the following approaches is most appropriate for rehydration in children with mild to moderate dehydration?",
+    "choices": {
+      "a": "Sports drinks in young children and adolescents",
+      "b": "Intravenous fluids in all cases",
+      "c": "Standard oral formulas in all but infants < 1 yr",
+      "d": "Oral rehydration adjusted as needed"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 15,
+    "question": "Which one of the following represents the definition of remittent fever?",
+    "choices": {
+      "a": "Fever with fluctuation <1 °C and doesn't reach the baseline",
+      "b": "Fever with fluctuation > 1°C and reach the baseline",
+      "c": "Fever with fluctuation > 1° C and doesn't reach the baseline",
+      "d": "Days of fever and days of normal temperature"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 16,
+    "question": "A 74-year-old male patient presented to the outpatient clinic with boring epigastric pain that is referred to the back of gradual onset and a progressive course. On examination, the temperature was 37.4 and jaundice. Laboratory investigations showed an ESR 1st hour of 105, total bilirubin 8.7mg/dl, direct bilirubin 6.6 mg/dl. What is the most probable diagnosis?",
+    "choices": {
+      "a": "Peptic ulcer",
+      "b": "Chronic calcular cholecystitis",
+      "c": "Hepatocellular carcinoma",
+      "d": "Cancer pancreas"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 17,
+    "question": "A 23-year-old female presented to the emergency department with melena. She denies abdominal pain. Resting pulse was 102, blood pressure 100/55. Which is the first investigation required to reach the diagnosis?",
+    "choices": {
+      "a": "Upper GIT endoscopy",
+      "b": "Colonoscopy",
+      "c": "Liver function tests",
+      "d": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+      "e": "Abdominal CT"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 18,
+    "question": "A 75-year-old man with a 2-day history of abdominal pain and diarrhea after a course of clindamycin treatment for 1 week before the diarrhea started. Temperature was 38° C, and his abdomen was distended and diffusely tender. An abdominal X-ray showed toxic dilatation. Which of the following represents the most appropriate antimicrobial therapy?",
+    "choices": {
+      "a": "Mebendazole",
+      "b": "Metronidazole",
+      "c": "Cefotaxime",
+      "d": "Gentamicin",
+      "e": "Azithromycin"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 19,
+    "question": "A non-vaccinated laboratory worker accidentally exposed to a needle prick from a known hepatitis B surface antigen +ve patient. Which of the following should be given to this worker immediately?",
+    "choices": {
+      "a": "Hepatitis B vaccine",
+      "b": "Hepatitis B vaccine + HBV immunoglobulin",
+      "c": "Interferon injection",
+      "d": "Oral antiviral drugs",
+      "e": "HBV immunoglobulin"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 20,
+    "question": "A 22-year-old female complained of frontal headache and fever for ten days. On inquiry, she complained of anorexia, abdominal discomfort, and constipation. She had a dry cough and muscular aches. On examination, she looked ill, and her temperature was 40.5 C, pulse rate 92/min, blood pressure 120/70mmHg, respiratory rate 18/min. Scattered rhonchi were heard throughout lung fields. There was generalized abdominal tenderness; no rigidity or guarding. Spleen was palpated; there was no lymphadenopathy. Hemoglobin 11.0 gm; WBC 3500; blood film negative; ALT 15 IU/mL, AST 22 IU/mL, Total bilirubin 0.8 mg, urine analysis was negative. What is the most likely diagnosis?",
+    "choices": {
+      "a": "Uncomplicated acute brucellosis",
+      "b": "Uncomplicated enteric fever",
+      "c": "Malaria",
+      "d": "Acute viral hepatitis",
+      "e": "Chronic viral hepatitis"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 21,
+    "question": "A 22-year-old man presents with fever, night sweats, unintentional weight loss, and productive cough for one month. The most probable cause for his weight loss is",
+    "choices": {
+      "a": "Acute pneumonia",
+      "b": "TB infection",
+      "c": "Pulmonary embolism",
+      "d": "Chronic Obstructive Pulmonary Disease",
+      "e": "COVID-19 infection"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 22,
+    "question": "A 60-year-old woman comes to your office with a 5-year history of \"constipation.\" You try to evaluate your patient to determine what is meant by \"constipation.\" Which of the following is the best definition?",
+    "choices": {
+      "a": "Only one bowel movement in 3 days",
+      "b": "Two bowel movements in 10 days",
+      "c": "Three bowel movements in 7 days",
+      "d": "Four bowel movements in 7 days",
+      "e": "Fewer than three bowel movements in 7 days"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 23,
+    "question": "A 70-year-old man comes to your office with a complaint of \"constipation.\" The patient had ischemic heart disease and hypertension controlled on medication. On examination, the head and neck, the lungs, the cardiovascular system, and the abdomen are all normal. Digital rectal examination (DRE) reveals impacted stool. Which of the following drugs is most closely associated with constipation in the elderly?",
+    "choices": {
+      "a": "Hydrochlorothiazide",
+      "b": "Verapamil",
+      "c": "Atenolol",
+      "d": "Acetaminophen",
+      "e": "Fluoxetine"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 24,
+    "question": "A 55-year-old male patient comes to you with \"heartburn\" and nausea but no vomiting or diarrhea. He feels full quickly after eating. He has noticed that his stool looks darker than it used to but has not seen any blood. On examination, he is pale appearing. His blood pressure is 120/80 mm Hg, and his pulse is 95 beats/min. There is epigastric tenderness to palpation but no masses. An abdominal mass is palpated. Rectal examination reveals black stool. What is the most likely diagnosis?",
+    "choices": {
+      "a": "Peptic ulcer",
+      "b": "Gastric carcinoma",
+      "c": "Acute pancreatitis",
+      "d": "Irritable bowel syndrome",
+      "e": "Chronic pancreatitis"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 25,
+    "question": "Female patient, 22 years old presented with early satiety for one year, her upper endoscopy revealed no structural disease. The possible diagnosis is",
+    "choices": {
+      "a": "Celiac disease",
+      "b": "Functional dyspepsia",
+      "c": "Functional defecation disorders",
+      "d": "Irritable bowel syndrome",
+      "e": "Inflammatory bowel disease"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 26,
+    "question": "Male patient, 20 years old presented with diarrhea for 3 months associated with recurrent abdominal cramping not responding to traditional treatment. His s and laboratory investigations were normal. Fecal calprotectin was 400 (Normal up to 200 ng/g). The next diagnostic step is",
+    "choices": {
+      "a": "Upper endoscopy and duodenal biopsy",
+      "b": "Colonoscopy and biopsy",
+      "c": "Abdominal ultrasound",
+      "d": "CT abdomen and pelvis",
+      "e": "MRI abdomen and pelvis"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 27,
+    "question": "A-Male patient, 20 years old presented with recurrent abdominal pain and diarrhea with unexplained anemia for 6 months. Anti- tissue transglutamine positive. The main line of treatment for this patient is",
+    "choices": {
+      "a": "Steroid",
+      "b": "Gluten-free diet",
+      "c": "Anti-diarrheal medications",
+      "d": "Proton pump inhibitors",
+      "e": "Azathioprine"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 28,
+    "question": "Irritable bowel syndrome is characterized by:",
+    "choices": {
+      "a": "Short history of symptoms",
+      "b": "Presence of nocturnal symptoms",
+      "c": "Documented weight loss",
+      "d": "Recurrent abdominal pain or discomfort",
+      "e": "Bleeding per rectum"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 29,
+    "question": "Male cirrhosis presented with cyanosis and resistant hypoxia. What is the provisional diagnosis?",
+    "choices": {
+      "a": "Hepatorenal syndrome",
+      "b": "Hepatic encephalopathy",
+      "c": "Portal hypertension",
+      "d": "Hepatopulmonary syndrome",
+      "e": "Hepatocellular carcinoma"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 30,
+    "question": "Which of the following is not associated with peptic ulcer?",
+    "choices": {
+      "a": "Liver cirrhosis",
+      "b": "Zollinger Ellison's syndrome",
+      "c": "Primary hyperparathyroidism",
+      "d": "Pernicious Anemia"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 31,
+    "question": "Which one of the following is associated with esophageal varices?",
+    "choices": {
+      "a": "Hyposplenism",
+      "b": "Acute viral hepatitis",
+      "c": "Nodular regeneration and fibrosis of the liver",
+      "d": "Portal hypotension",
+      "e": "Increased risk of bleeding with propranolol"
+    },
+    "from": "End module exam group 3"
+  },
+  {
+    "question_number": 32,
+    "question": "Which of the following is established biological therapy for Crohn’s disease?",
+    "choices": {
+      "a": "Anti TNF a antibody",
+      "b": "IL-1 antagonist",
+      "c": "IL-6 antagonist",
+      "d": "IL-8 antagonist"
+    },
+    "from": "End module exam group 3"
+  }
+]

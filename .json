@@ -1,0 +1,16 @@
+{
+  "question": "What is the likely cause for the 15-year-old female's weight loss?",
+  "choices": {
+    "a": "Strict dietary regimen",
+    "b": "Increase caloric expenditure associated with ballet training",
+    "c": "Eating disorder",
+    "d": "Irregular ovulatory function"
+  },
+  "right_answer": "c",
+  "explanation": {
+    "A. Strict dietary regimen": "A strict dietary regimen can lead to weight loss, but it is not as common as an eating disorder. In fact, most people who follow strict dietary regimens eventually regain the weight they lose. Additionally, strict dietary regimens are often associated with other unhealthy behaviors, such as binge eating and purging."
+    "B. Increase caloric expenditure associated with ballet training": "Increased caloric expenditure associated with ballet training can also lead to weight loss, but it is not as likely as an eating disorder in a girl who is already thin. Ballet dancers typically have very high metabolisms, so they need to eat a lot of calories to maintain their weight. Additionally, ballet dancers are typically very aware of their bodies and are careful not to overexercise."
+    "C. Eating disorder": "Eating disorders are serious mental illnesses that can lead to a variety of health problems, including weight loss, malnutrition, and even death. Eating disorders are most common in teenage girls, and they are often associated with other unhealthy behaviors, such as binge eating and purging."
+    "D. Irregular ovulatory function": "Irregular ovulatory function can also lead to weight loss, but it is not as common as an eating disorder in a girl who is still menstruating. Irregular ovulatory function is often caused by hormonal imbalances, which can be caused by a variety of factors, including stress, illness, and certain medications."
+  }
+}
